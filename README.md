@@ -44,7 +44,7 @@ As for the overall performance of one algorithm wrt other, we set two performanc
 	False Alarm.(lower the better)
 
 
-##LIST OF SOFTWARES, TOOLS, OPEN SOURCE PROJECTS, AND RESEARCH PAPERS
+## LIST OF SOFTWARES, TOOLS, OPEN SOURCE PROJECTS, AND RESEARCH PAPERS
 
 
 ###### Dataset : http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.htmlDataset : http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
@@ -60,7 +60,7 @@ Machine Learning Approach. http://www.commsp.ee.ic.ac.uk/~faheem/nfv-sdn.pdfMach
 ###### Research Paper 3: Predicting Application Layer DDoS Attacks Using
 
 
-# LIST OF DELIVERABLES:
+##  LIST OF DELIVERABLES:
 
 Python source code/codes used to train,cross-validate,test the models.
 Prediction accuracy of different ML algorithms for the dataset above in different training/testing split scenarios and threshold (α).
