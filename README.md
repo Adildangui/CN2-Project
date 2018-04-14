@@ -51,7 +51,7 @@ As for the overall performance of one algorithm wrt other, we set two performanc
 
 
 ###### Research Paper 1 (Main): Predicting Network Attack Patterns in SDN using
-Machine Learning Approach. http://www.commsp.ee.ic.ac.uk/~faheem/nfv-sdn.pdfMachine Learning Approach. http://www.commsp.ee.ic.ac.uk/~faheem/nfv-sdn.pdf
+Machine Learning Approach. http://www.commsp.ee.ic.ac.uk/~faheem/nfv-sdn.pdfMachine
 
 
 ###### Research Paper 2: Machine Learning Approach for Attack Prediction  and Classification using Supervised Learning Algorithms. https://pdfs.semanticscholar.org/725d/9cb512c870aab582b82b4a5bcae0feb8b427.pdf
